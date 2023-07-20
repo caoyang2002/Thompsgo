@@ -10,7 +10,7 @@
 # Usage
 1. Open the themes folder.
    打开主题文件夹
-2. Copy the "Thompsgo" and "Thompsgo.css" file to the theme folder
+4. Copy the "Thompsgo" and "Thompsgo.css" file to the theme folder.
    复制"Thompsgo"和"Thompsgo.css"文件到主题文件夹
    
 # THANKS
